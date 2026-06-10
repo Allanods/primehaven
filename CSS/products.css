@@ -1,0 +1,35 @@
+h1{
+color: brown;
+text-align: center;
+
+background-color: bisque;
+line-height: 100px;
+
+
+}
+
+
+img{
+width: 200px;
+height: 150px;
+
+border-radius: 50
+
+
+}
+
+h1:hover{
+
+    background-color: azure;
+color: rgb(196, 255, 235);
+
+
+
+
+}
+
+
+
+
+
+

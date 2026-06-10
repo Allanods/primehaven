@@ -1,0 +1,60 @@
+h1{
+
+text-align: center;
+
+}
+h1{
+color: brown;
+text-decoration: underline;
+}
+
+#shipping{
+
+font-style: italic;
+
+}
+
+#par{
+
+font-weight: bolder;
+
+}
+
+.one{
+
+margin-left: 40px;
+
+
+}
+
+#benefits{
+
+background-color: bisque;
+margin: 60px;
+padding: 40px;
+border-radius: 30px;
+
+}
+
+#benefits button{
+
+background-color: brown;
+
+border-radius: 20px;
+
+}
+
+#benefits :hover{
+
+background-color: brown;
+
+}
+
+#vip{
+
+display: flex;
+
+gap: 20px;
+
+}
+
